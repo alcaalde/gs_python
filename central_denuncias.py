@@ -1,4 +1,4 @@
-TIPOS = ["Rampa de acesso", "Piso tátil", "Calçada danificada", "Semáforo sonoro", "Outro"]
+TIPOS = ["Rampa de acesso", "Piso Tátil", "Calçada danificada", "Semáforo sonoro", "Outro"]
 denuncias = []
 
 def ler_inteiro(mensagem, minimo, maximo):
@@ -37,7 +37,6 @@ def cadastrar():
 
 
 def carregar_exemplos():
-    # da pra tirar esse depois talvez.. deixei pq tava com preguiça de colocar as pagina p ver o relatorio
     denuncias.extend([
         ["Av. Paulista", "Rampa de acesso", 5],
         ["Av. Paulista", "Piso Tátil", 4],
