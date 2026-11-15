@@ -24,7 +24,7 @@ O programa necessita apenas do Python instalado, após isso apenas rode o arquiv
 
 Não é necessário nenhuma biblioteca externa.
 
-# Regras de classificação
+# REGRAS DE CLASSIFICAÇÃO
  
 Cada denúncia recebe uma gravidade de 1 a 5, informada pelo usuário (1 = problema leve, 5 = impede completamente o acesso). Com base nela:
  
@@ -42,7 +42,7 @@ Recomendação automática (feita com o percentual de denúncias urgentes sobre 
 | De 25% a menos de 50% | Atenção | Programar melhorias no local com mais denúncias |
 | Menos de 25% | Controlada | Manter o monitoramento, com foco no local com mais denúncias |
 
-# Descrição dos resultados 
+# DESCRIÇÃO DOS RESULTADOS
 
 Ao final, o programa é capaz de nos mostrar:
 
@@ -51,6 +51,6 @@ Ao final, o programa é capaz de nos mostrar:
 - Indicadores que ajudam na hora da tomada de decisão (total, gravidade média, locais com mais denúncias, porcentagem de urgentes e os tipos mais presentes);
 - Recomendação automática de onde e como agir.
 
-# Video Pitch explicativo
+# VÍDEO-PITCH EXPLICATIVO
 
 https://youtu.be/7Ql55a-BBp4
