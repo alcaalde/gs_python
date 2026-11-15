@@ -16,7 +16,7 @@ Para se ampliar esse suporte, propomos com esse programa uma central de denúnci
 
 O software se encaixa principalmente na ODS 10 (reduzir as desigualdades), com foco em promover a inclusão social de todos os cidadãos.
 
-# Instruções de execução
+# INSTRUÇÕES DE EXECUÇÃO
 
 O programa necessita apenas do Python instalado, após isso apenas rode o arquivo principal no terminal, dentro da pasta, com:
 
